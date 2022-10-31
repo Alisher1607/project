@@ -1,4 +1,4 @@
-export function CardIcon() {
+function CardIcon() {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -9,3 +9,5 @@ export function CardIcon() {
     </svg>
   );
 }
+
+export default CardIcon;
